@@ -1,0 +1,60 @@
+.a{
+    margin-left:  100px;
+    margin-top: 100px;
+    height: 400px;
+    border: black solid;
+    background-color: yellow ;
+    
+    }
+    .r{
+    /* border: black solid; */
+    border-color: black solid;
+    border-color: black solid;
+    
+    }
+    .f{
+      border: 2px black solid;
+      border-color: black solid;
+      background-color: red;
+      height:100px;
+      /* width: 600px; */
+    }
+    
+    .badge {
+      padding-left: 9px;
+      padding-right: 9px;
+      -webkit-border-radius: 9px;
+      -moz-border-radius: 9px;
+      border-radius: 9px;
+    }
+    
+    .label-warning[href],
+    .badge-warning[href] {
+      background-color: #c67605;
+    }
+    #lblCartCount {
+        font-size: 12px;
+        background: #ff0000;
+        color: #fff;
+        padding: 0 5px;
+        vertical-align: top;
+        margin-left: -10px;
+    }
+    .nav-ite{
+    padding-left:40 px;
+    
+    }
+    .con1{
+    margin-left: 10px;
+    margin-top:20px;
+    /* margin-right: 10px; */
+    border:black solid;
+    height: 2000px;
+    width:1000px;
+    
+    }
+    .col-sm-3{
+      height:300px;
+      border: 1px black solid;
+    }
+    
